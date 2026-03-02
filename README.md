@@ -1,4 +1,4 @@
-# MTURK_DETECT (Missing LTDs)
+# MTURK_DETECT (MISSING UNTUKED JOBS SHOWING WORK DONE)
 
 This folder contains a small set of Python scripts extracted from `Missing_ltds-Copy1.ipynb`.
 
